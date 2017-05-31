@@ -1,3 +1,3 @@
 # dna-sequence-searching
 
-![preview](http://url/to/img.png)
+![preview](https://github.com/koflerm/dna-sequence-searching/blob/master/img/preview.PNG)
