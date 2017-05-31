@@ -1,2 +1,3 @@
 # dna-sequence-searching
-# just do it.
+
+![preview](http://url/to/img.png)
